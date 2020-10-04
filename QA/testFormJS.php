@@ -22,7 +22,7 @@ die();
 <body>
 <div class="container p-3">
 			<div class="jumbotron">
-			  <h1 class="display-4">Bienvenido al Portal Test Administrator</h1>
+			  <h1 class="display-4">Bienvenido al Portal QA Control de Versión</h1>
 			  <p class="lead">Portal Administración de usuarios corporativos</p>
 			  
 			</div>
